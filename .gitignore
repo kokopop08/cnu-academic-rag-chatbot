@@ -1,0 +1,17 @@
+# Dependencies
+node_modules/
+
+# Build outputs
+frontend/dist/
+
+# Environment variables
+.env
+.env.*
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Data & Credentials
+*.csv
+*.pem
